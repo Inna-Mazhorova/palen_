@@ -4,5 +4,5 @@
 
 | **Название проекта** | **Описание** | **Используемые библиотеки** |
 | :-------------------- | :--------------------- |:---------------------------|
-| [Uplift-модель](https://github.com/Inna-Mazhorova/portfolio/tree/main/gold) | Разработка Uplift-модели | *pandas, numpy, sklearn, lightgbm, catboost* |
+| [Uplift-модель](https://github.com/Inna-Mazhorova/palen_/palen) | Разработка Uplift-модели | *pandas, numpy, sklearn, lightgbm, catboost* |
 
